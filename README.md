@@ -1,1 +1,1 @@
-# HR-Database---Data-Architect-Nanodegree-Program-Udacity-
+# HR Database - Data Architect Nanodegree Program (Udacity)
