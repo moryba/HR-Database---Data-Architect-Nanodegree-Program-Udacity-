@@ -1,5 +1,5 @@
 
-/*Create a DDL and DML SQL script capable of building the database you designed in Step 2*/	
+/*Create a DDL and DML SQL script capable of building the database I designed in the ERD*/	
 	
 CREATE TABLE Employee (
 	emp_id CHARACTER VARYING(8) PRIMARY KEY,
