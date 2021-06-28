@@ -16,6 +16,8 @@ The HR dataset I will be working with is an Excel workbook consisting of 206 rec
 ![alt text](conceptual.JPG)
 
 ## Logical ERD
+![alt text](logical.JPG)
 
 ## Physical ERD
+![alt text](physical.JPG)
 
