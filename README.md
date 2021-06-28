@@ -13,6 +13,7 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 The HR dataset I will be working with is an Excel workbook consisting of 206 records, with eleven columns. The data is in human-readable format and has not been normalized at all. The data lists the names of employees at Tech ABC Corp, as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
 
 ## Conceptual ERD
+![alt text](img/conceptual.JPG)
 
 ## Logical ERD
 
